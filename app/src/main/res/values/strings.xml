@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HRView</string>
+    <string name="field_hrview">&#x2764; HRView</string>
+    <string name="field_hrview_desc">Frecuencia cardiaca en grande con media y maxima. El fondo cambia de color segun tu zona de FC.</string>
+    <string name="info_text">HRView esta activo.\nAnade el campo &#x2764; HRView a una pagina de entreno para usarlo.</string>
+</resources>

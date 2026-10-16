@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionInfo
+    id="hrview"
+    displayName="@string/app_name"
+    icon="@drawable/ic_launcher"
+    scansDevices="false">
+
+    <DataType
+        typeId="hrview"
+        displayName="@string/field_hrview"
+        description="@string/field_hrview_desc"
+        graphical="true"
+        icon="@drawable/ic_launcher" />
+
+</ExtensionInfo>

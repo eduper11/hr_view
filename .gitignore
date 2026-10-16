@@ -1,5 +1,8 @@
 .env
 local.properties
+keystore.properties
+*.jks
+*.keystore
 .gradle/
 build/
 *.iml

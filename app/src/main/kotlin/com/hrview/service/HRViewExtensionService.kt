@@ -1,13 +1,14 @@
 package com.hrview.service
 
 import android.util.Log
+import com.hrview.BuildConfig
 import com.hrview.datatype.HRViewDataType
 import com.hrview.engine.HrStore
 import io.hammerhead.karooext.KarooSystemService
 import io.hammerhead.karooext.extension.DataTypeImpl
 import io.hammerhead.karooext.extension.KarooExtension
 
-class HRViewExtensionService : KarooExtension("hrview", "1.0") {
+class HRViewExtensionService : KarooExtension("hrview", BuildConfig.VERSION_NAME) {
 
     companion object { private const val TAG = "HRViewExtensionService" }
 
